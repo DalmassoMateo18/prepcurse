@@ -1,2 +1,1 @@
-# prepcurse
-REPOSITORIO DE PREUBA 
+este es un un proyecto a prueba
